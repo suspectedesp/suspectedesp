@@ -3,10 +3,10 @@
 └─$ py redacted.py
 
 class Redacted:
+    def  __social__(self):
+    self.github = "https://github.com/suspectedesp"
+    self.pypi = "https://pypi.org/user/vortexsys/"
 
-def  __social__(self):
- self.github = "https://github.com/suspectedesp"
- self.pypi = "https://pypi.org/user/vortexsys/"
  ┌──(redacted@root)-[~/]
  └─$
 ```
