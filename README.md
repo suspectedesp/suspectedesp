@@ -1,16 +1,13 @@
-## Hi there 👋
+```python
+┌──(bubblegum@root)-[~/]
+└─$ py bubblegum.py
 
-<!--
-**suspectedesp/suspectedesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bubblegum:
+    def  __social__(self):
+      self.github = "https://github.com/suspectedesp"
+      self.pypi = "https://pypi.org/user/vortexsys/"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ┌──(bubblegum@root)-[~/]
+ └─$
+```
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
