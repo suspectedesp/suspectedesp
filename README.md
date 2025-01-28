@@ -19,7 +19,7 @@ class Bubblegum:
         return "Creating new ways to mod, code, and break boundaries. Living fast, thinking deeper."
 
     def __hobbies__(self):
-        return ["Music Production", "Experimenting with Game Mods", "Learning Spanish", "Creating D&D Campaigns"]
+        return ["Music Production", "Experimenting with Game Mods", "Learning Spanish", "Playing D&D"]
 
 if __name__ == "__main__":
     bubblegum = Bubblegum()
