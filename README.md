@@ -1,3 +1,7 @@
+![Header](./header.png)
+
+<h1 align="center">Bubblegum's Github</h1>
+
 ```python
 ┌──(bubblegum@root)-[~/]
 └─$ py bubblegum.py
@@ -35,4 +39,6 @@ if __name__ == "__main__":
  ┌──(bubblegum@root)-[~/]
  └─$
 ```
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
+<img src="https://raw.githubusercontent.com/suspectedesp/suspectedesp/45047868599db3be58cb9c75c18bd97e3d2d54da/grid-snake.svg">
+
+![Footer](./footer.png)
