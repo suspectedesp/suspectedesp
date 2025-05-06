@@ -16,14 +16,14 @@ class Bubblegum:
 
     def __social__(self):
         self.github = "https://github.com/suspectedesp"
-        self.pypi = "https://pypi.org/user/vortexsys/"
+        self.pypi = "https://pypi.org/user/suspectedesp/"
         self.linkedin = "Not yet"
 
     def __vibe__(self):
-        return "Creating new ways to mod, code, and break boundaries. Living fast, thinking deeper."
+        return "Finding new ways to mod, code, and break boundaries. Live Fast, Die Old!"
 
     def __hobbies__(self):
-        return ["Music Production", "Experimenting with Game Mods", "Learning Spanish", "Playing D&D"]
+        return ["Music Production", "Game modding", "Learning Spanish", "Playing D&D"]
 
 if __name__ == "__main__":
     bubblegum = Bubblegum()
